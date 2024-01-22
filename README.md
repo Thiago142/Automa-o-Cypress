@@ -19,7 +19,7 @@ Esse projeto foi realizado com o objetivo de conhecer o frameork Cypress, para a
 ### 🔧 Instalação
 É nescessário ter alguma IDE desenvolvimento para rodar o código main, ou poderá ser executado via CLI no terminal do Linux via.
 
-### 🔧 Execução do projeto
+### 🔧 Comando de Execução do projeto
 
 npx cypress open
  
